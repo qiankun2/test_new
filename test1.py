@@ -15,3 +15,4 @@ if __name__ == "__main__":
       p_one.start()
       p_two.start()
       print("son:%s father:%s" %(os.getpid(),os.getppid()))
+      print("建立分支")
